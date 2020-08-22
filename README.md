@@ -1,2 +1,2 @@
 # Portfolio
-https://eestefan.github.io/Portfolio/index.html
+https://eestefan.github.io/Portfolio/about.html
